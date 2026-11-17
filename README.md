@@ -1,6 +1,6 @@
 # WARAQA
 
-An AI-powered platform for engineering, designing, developing, and validating educational and pedagogical digital products.
+An AI-powered educational product engineering workbench for designing, developing, and validating pedagogical digital products.
 
 ## Project Structure
 
@@ -42,4 +42,4 @@ WARAQA aims to provide an intelligent system that supports the full lifecycle of
 
 ---
 
-*Repository initialized for the WARAQA project.*
+*Repository initialized for the WARAQA educational product engineering workbench.*
